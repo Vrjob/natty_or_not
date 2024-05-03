@@ -4,12 +4,12 @@
 Este projeto consiste na criação de conteúdo sobre “A Participação da IA no desenvolvimento SQL”, onde serão gerados com o auxílio da IA: 
 	-> Um Ebook sobre SQL e IA;
 	-> um Podcast sobre o mesmo tema;
-	-> um Artigo sobre uma pseudo-discursão do Ebook. 
+	~~-> um Artigo sobre uma pseudo-discursão do Ebook.~~
 
 ## 🤖 Tecnologias Utilizadas
 Imagens geradas por: I.A. CoPilot Design
 Conteúdo gerado por: ChatGPT 
-Foto da Patrícia e Alexandre: ThisPersonDoesNotExist
+~~Foto da Patrícia e Alexandre: ThisPersonDoesNotExist~~
 Editor de Áudio e Gerador de Voz: Clipchamp
 Editor de imagem 1: Power Point
 Editor de imagem 2: Canva
@@ -59,7 +59,7 @@ Revisões Humanas: Victor Job
 Inicialmente, foi realizado a escolha do tema, misturando a linguagem que eu trabalho no momento (SQL) com a temática do bootcamp (IA). Utilizando ferramentas usadas anteriormente em outros desafios do mesmo bootcamp, é gerado uma série de conteúdos diferentes sobre a mesma temática.
 
 ## 🚀 Resultados
-Criação do Ebook SQL & IA: Navegando pelas Profundezas da Inteligência Artificial em Bancos de Dados. Criação do Podcast TemploSQL. Geração do Artigo sobre o Ebook SQL & IA.
+Criação do Ebook SQL & IA: Navegando pelas Profundezas da Inteligência Artificial em Bancos de Dados. Criação do Podcast TemploSQL. ~~Geração do Artigo sobre o Ebook SQL & IA~~. Criação do artigo foi descartada pois o conteudo ficaria redundante, devido sua similaridade com o EBook.
 
 ## 💭 Reflexão (Opcional)
 A IA é uma ótima ferramenta para otimização, mas ainda é perigoso e irresponsável utilizar a mesma como um material substituto da mente humana. Apesar de seu conhecimento, fontes acadêmicas não devem ser trocadas pela a IA, apesar disso já esta ocorrendo por conta do imediatismo humano.
